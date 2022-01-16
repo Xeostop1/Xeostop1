@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://img.shields.io/badge/instagram-F6F6F6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stopsunlight/"/></a>
+[🌞instagram](https://www.instagram.com/stopsunlight/)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
