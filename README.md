@@ -1,5 +1,5 @@
 # Hi there 👋
-### **[🌞instagram](https://www.instagram.com/stopsunlight/)**
+### **[🌞BLOG](https://velog.io/@requiem27/posts)**
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
